@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Investment Management]]></title>
         <description><![CDATA[Investment Management]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cenor-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 07:29:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 07:29:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cenor-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finanzas en Confianza]]></title>
+            <description><![CDATA[<article><h1>Finanzas en Confianza</h1><p>Gestión empresarial al alcance de todos.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d355c82d1ee2c0efd60c6ec32cfd96ac/noop.jpg?input=http%3A%2F%2Ffinanzasenconfianza.com%2Fwp-content%2Fuploads%2F2014%2F02%2Fgestic3b3n1.jpg"></article>]]></description>
+            <link>http://finanzasenconfianza.com/</link>
+            <guid isPermaLink="false">a6759e92-dd4b-4647-a00b-0069fdbf2d96</guid>
+            <pubDate>Thu, 18 Aug 2016 07:29:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thor Equities]]></title>
             <description><![CDATA[<article><h1>Thor Equities</h1><p>Thor Equities owns property in key markets throughout the United States, Europe, Canada and Latin America, with portfolio transactions and a development pipeline in excess of $10 billion and totaling more than 20 million square feet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a09f8431f8734653653bd011de831159/noop.jpg?input=http%3A%2F%2Fwww.thorequities.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fpar_slide_image%2Fpublic%2F680%2520Madison%2520Home%2520Page%2520Slideshow_Dusk.jpg%3Fitok%3DDWHCPvRL"></article>]]></description>
