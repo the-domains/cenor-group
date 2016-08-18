@@ -1,4 +1,3 @@
-layout_spectrum: 0.8711371631361544
 typography_spectrum: 0.5869121295399964
 color:
   brandStrength: 0.025090034352615476
@@ -11,8 +10,10 @@ color:
     - '#27C1ED'
     - '#003376'
     - '#A8EFFB'
+layout_spectrum: 0.8711371631361544
 name: Cenor Group
 navigation:
   - name: Asset Management
     url: 'http://cenorgroup.com/asset_management.php'
     type: external
+title: Investment Management
