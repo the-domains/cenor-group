@@ -12,3 +12,7 @@ color:
     - '#003376'
     - '#A8EFFB'
 name: Cenor Group
+navigation:
+  - name: Asset Management
+    url: 'http://cenorgroup.com/asset_management.php'
+    type: external
